@@ -1,0 +1,6 @@
+[submodule "autojump"]
+    path = plugins/autojump/autojump
+    url = https://github.com/wting/autojump
+[submodule "zsh-interactive-cd"]
+    path = plugins/zsh-interactive-cd/zsh-interactive-cd
+    url = https://github.com/changyuheng/zsh-interactive-cd
